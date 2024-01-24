@@ -1,7 +1,7 @@
 ### Hello there, I’m Karan Odedra from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👀 I’m interested in Front-end development and Cloud.
-- 🌱 I’m currently working as a Front-End Developer buidling a POS Finance product using Vue.js and Quasar Framework.
+- 🌱 I’m currently working as a Front-End Developer.
 - ⚡ Fun fact: I love to read books and play/watch cricket.
 
 ### Connect with me on LinkedIn: 
