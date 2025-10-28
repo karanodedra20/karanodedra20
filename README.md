@@ -1,6 +1,6 @@
 ### Hi there, I’m Karan Odedra, a front-end engineer based in Hamburg, Germany. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👀 In the IT industry for over 6 years, I love tackling different challenges and collaborating with my teammates.
+- 👀 In the IT industry for over 7 years, I love tackling different challenges and collaborating with my teammates.
 - 🌱 After working in India and Sweden, I’ve been a Front-End Engineer at a startup in Hamburg since November 2022.
 - ⚡ Fun fact: I love to read books and play/watch cricket.
 
